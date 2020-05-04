@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/procartupdated/static/css/main.17166180.chunk.css",
+    "main.js": "/procartupdated/static/js/main.708a17af.chunk.js",
+    "main.js.map": "/procartupdated/static/js/main.708a17af.chunk.js.map",
+    "runtime-main.js": "/procartupdated/static/js/runtime-main.09eaaf39.js",
+    "runtime-main.js.map": "/procartupdated/static/js/runtime-main.09eaaf39.js.map",
+    "static/js/2.9a60879a.chunk.js": "/procartupdated/static/js/2.9a60879a.chunk.js",
+    "static/js/2.9a60879a.chunk.js.map": "/procartupdated/static/js/2.9a60879a.chunk.js.map",
+    "index.html": "/procartupdated/index.html",
+    "precache-manifest.79bcaea61e7fdf4b818ea7e20640306c.js": "/procartupdated/precache-manifest.79bcaea61e7fdf4b818ea7e20640306c.js",
+    "service-worker.js": "/procartupdated/service-worker.js",
+    "static/css/main.17166180.chunk.css.map": "/procartupdated/static/css/main.17166180.chunk.css.map",
+    "static/js/2.9a60879a.chunk.js.LICENSE.txt": "/procartupdated/static/js/2.9a60879a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09eaaf39.js",
+    "static/js/2.9a60879a.chunk.js",
+    "static/css/main.17166180.chunk.css",
+    "static/js/main.708a17af.chunk.js"
+  ]
+}
